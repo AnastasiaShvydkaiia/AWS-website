@@ -3,7 +3,7 @@
 ## About The Project:
 
 This project is built using AWS resources and Terraform.
-
+![arcitecture](https://github.com/AnastasiaShvydkaiia/AWS-website/assets/166436183/0cb08d80-c555-488f-aef1-b9dc1d3df366)
 - This architecture is built to host a static webspage on AWS EC2 instances.
 - The instances will be spread across two Availability Zones for High Availability
 - Launch template will provision the instances with specified parameters and user-data
