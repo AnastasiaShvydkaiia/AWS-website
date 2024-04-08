@@ -61,7 +61,3 @@ terrafrom destroy
 | <a name="loadbalancer_url"></a> [loadbalancer\_url](#output\_loadbalancer\_url) | Load Balancer DNS name  |
 
 <!-- END_Specification: -->
-
-## Conclusion:
-Terraform is an Infrastructure as Code tool that allows to build, modify, and manage cloud infrastructure in an understandable and replicable way.  
-Through this terraform automation was provisioned a highly available and autoscalable fleet of EC2 instances with installed Apache Web Server to host a simple website.
