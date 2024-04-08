@@ -19,7 +19,7 @@ This project is built using AWS resources and Terraform.
 ## Usage:
 Hosting this website involves four steps:
 
-+ Step1 : open the aws web site folder in the cloned repository and run the following command
++ Step1 : open the "aws web site" folder in the cloned repository and run the following command
 ```
 terraform init
 ```
