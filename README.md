@@ -24,7 +24,7 @@ Hosting this website involves four steps:
 terraform init
 ```
 + Step 2: specify access key and secret key 
-+ Step 3: run the following commands in order to provision the required infrastructure and provide the ALB DNS name as the output
++ Step 3: run the following commands in order to provision the required infrastructure
 ```
 terraform plan
 terraform apply
