@@ -4,7 +4,6 @@
 
 This project is built using AWS resources and Terraform.
 
-![alt text](arcitecture.png)
 - This architecture is built to host a static webspage on AWS EC2 instances.
 - The instances will be spread across two Availability Zones for High Availability
 - Launch template will provision the instances with specified parameters and user-data
